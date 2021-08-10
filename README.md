@@ -1,0 +1,1 @@
+Projeto realizado no Santander Bootcamp da Digital Inovation One, para desenvolvimento de uma API Rest de controle de ponto e acesso dos usuários de uma empresa. Utilizando Java, Spring Boot, Hibernate Envers, Lombok e Swagger.
